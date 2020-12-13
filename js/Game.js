@@ -65,7 +65,6 @@ class Game {
         gameOverlay.style.display = 'block';
         gameOverlay.classList = gameWon ? 'win' : 'lose';
         gameOverMessage.textContent = gameWon ? 'Battle\'s won! Good Job, Commander!' : 'Temporary retreat is not failure, we shall try again';
-
         this.resetGame();
     }
 
