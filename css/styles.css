@@ -181,7 +181,7 @@ button {
     display: flex;
     flex-direction: column;
     position: fixed;
-    background-image: url(/images/dday.jpg);
+    background-image: url(../images/dday.jpg);
     background-position: center;
     background-size: cover;
     justify-content: center;
