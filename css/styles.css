@@ -30,7 +30,7 @@ body {
     flex-direction: column;
     display: flex;
     height: 100vh;
-    background-image: url(/images/tiger.jpg);
+    background-image: url(../images/tiger.jpg);
     background-position: center;
     background-size: cover;
 }
@@ -205,7 +205,7 @@ button {
 }
 
 .win {
-    background-image: url(/images/merica.jpg) !important;
+    background-image: url(../images/merica.jpg) !important;
 }
 
 .win .title {
@@ -222,7 +222,7 @@ button {
 }
 
 .lose {
-    background-image: url(/images/ura.jpg) !important;
+    background-image: url(../images/ura.jpg) !important;
 }
 
 .lose .title {
